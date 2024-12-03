@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "utgSwtvTm0vrC3LzY5KffstTYPqsBh0c1rSMDsLqvyHWKdaZxjxmndRtUF/WzdEKXpcrn68ZPDA40MxHcO0taw==",
+  "success": true,
+  "projectFilePath": "/home/luiz/coisasqueeuuso/Codigos/PasswordGenerator/PasswordGenerator.csproj",
+  "expectedPackageFiles": [
+    "/home/luiz/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
